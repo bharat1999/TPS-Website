@@ -1,0 +1,29 @@
+.brand-txt
+{
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+}
+.nav-line
+{
+    color: black;
+    font-weight: 900;
+}
+.contact
+{
+    margin: 4rem;
+}
+footer
+{   
+    text-align: center;
+    height: 2rem;
+    color: white;
+    background-color: red;
+    position: absolute;
+    bottom: 0;
+}
+.home-content
+{
+    margin: 1rem;
+    text-align: center;
+}
